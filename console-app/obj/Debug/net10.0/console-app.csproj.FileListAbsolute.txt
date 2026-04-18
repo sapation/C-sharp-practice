@@ -1,0 +1,14 @@
+/Users/sumaila/projects/personal/c-sharp/console-app/bin/Debug/net10.0/console-app
+/Users/sumaila/projects/personal/c-sharp/console-app/bin/Debug/net10.0/console-app.deps.json
+/Users/sumaila/projects/personal/c-sharp/console-app/bin/Debug/net10.0/console-app.runtimeconfig.json
+/Users/sumaila/projects/personal/c-sharp/console-app/bin/Debug/net10.0/console-app.dll
+/Users/sumaila/projects/personal/c-sharp/console-app/bin/Debug/net10.0/console-app.pdb
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.AssemblyInfoInputs.cache
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.AssemblyInfo.cs
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.csproj.CoreCompileInputs.cache
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.dll
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/refint/console-app.dll
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.pdb
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/console-app.genruntimeconfig.cache
+/Users/sumaila/projects/personal/c-sharp/console-app/obj/Debug/net10.0/ref/console-app.dll

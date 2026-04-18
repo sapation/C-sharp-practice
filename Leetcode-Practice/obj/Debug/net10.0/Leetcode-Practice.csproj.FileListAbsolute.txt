@@ -1,0 +1,14 @@
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/bin/Debug/net10.0/Leetcode-Practice
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/bin/Debug/net10.0/Leetcode-Practice.deps.json
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/bin/Debug/net10.0/Leetcode-Practice.runtimeconfig.json
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/bin/Debug/net10.0/Leetcode-Practice.dll
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/bin/Debug/net10.0/Leetcode-Practice.pdb
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.AssemblyInfoInputs.cache
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.AssemblyInfo.cs
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.csproj.CoreCompileInputs.cache
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.dll
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/refint/Leetcode-Practice.dll
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.pdb
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/Leetcode-Practice.genruntimeconfig.cache
+/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/Debug/net10.0/ref/Leetcode-Practice.dll
