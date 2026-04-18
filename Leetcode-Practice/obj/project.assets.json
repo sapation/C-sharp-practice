@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/Leetcode-Practice.csproj",
+      "projectUniqueName": "/Users/sumaila/projects/personal/c-sharp/Practice/Leetcode-Practice/Leetcode-Practice.csproj",
       "projectName": "Leetcode-Practice",
-      "projectPath": "/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/Leetcode-Practice.csproj",
+      "projectPath": "/Users/sumaila/projects/personal/c-sharp/Practice/Leetcode-Practice/Leetcode-Practice.csproj",
       "packagesPath": "/Users/sumaila/.nuget/packages/",
-      "outputPath": "/Users/sumaila/projects/personal/c-sharp/Leetcode-Practice/obj/",
+      "outputPath": "/Users/sumaila/projects/personal/c-sharp/Practice/Leetcode-Practice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sumaila/.nuget/NuGet/NuGet.Config"
